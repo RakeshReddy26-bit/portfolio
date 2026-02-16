@@ -1,64 +1,127 @@
+# Rakesh Kalamakuntla — Portfolio
 
-# Rakesh Reddy Kalamakuntla
+Master’s student in **Computer Science & Artificial Intelligence** (Applied Sciences), focused on **machine learning**, **systems thinking**, and **governed AI automation**.  
+I build projects that emphasize **clarity, correctness, and real-world constraints**, not just demos.
 
-**Master’s Student — Computer Science & Applied AI (HAW, Germany)**  
-I build governed automation systems, data-driven simulators, and practical ML stacks that stay reviewable, documented, and deployable.
+📍 Kiel / Hamburg, Germany  
+🎓 M.Sc. Computer Science & AI  
+💼 Open to internships / working-student roles (ML, Data, Software, GenAI)
 
-## Technical Snapshot
-- **What I build:** Deterministic assistant infrastructure (SkillVector), production-style ML pipelines, state-based simulations, prompt-engineered GenAI experiments.
-- **How I think:** Architecture first, documentation-driven, honest about limitations, and focused on reproducibility over hype.
+---
 
-## Core Skills
-- **Languages:** Python, JavaScript/TypeScript, SQL, Bash
-- **ML / Data:** Time-series modeling, regression, backtesting, feature engineering, model evaluation, prompt engineering
-- **Frameworks & Tools:** TensorFlow/Keras, scikit-learn, FastAPI, Pandas, NumPy, Docker, Git/GitHub
-- **Systems & Process:** Simulation modeling, governance design, backlog management, documentation workflows
+## Core Focus Areas
 
-## Featured Projects
+- Machine Learning & Data Science (Python-first workflows)
+- Time-series forecasting & predictive modeling
+- Generative AI experimentation & prompt engineering
+- Simulation & systems modeling
+- Governance-aware automation (documentation, determinism, auditability)
+- Full-stack & backend fundamentals
 
-### Tier 1 — Flagship & Active Systems
-1. **SkillVector — Governance-First Automation Workspace**  
-   - **Problem:** Keep assistants/automation deterministic, auditable, and safe to hand over.  
-   - **Approach:** docs/notes/projects separation, V1/V2/V3 governance layers, public-safe roadmap + backlog.  
-   - **Stack:** Markdown architecture docs, Git discipline, review checklists.  
-   - **Outcome:** A recruiter-reviewable repo that explains how I manage risk, approvals, and expansion without exposing private runtime code.  
-   - **Repo:** [`skillvector/`](../skillvector) (local, publish-ready once approved).
+---
 
-2. **Stock Market Prediction — LSTM Toolkit + API**  
-   - **Problem:** Run reproducible ML experiments on price data with CLI, reports, and API endpoints.  
-   - **Approach:** CPU-friendly LSTM training CLI (`stock_market_prediction.py`), TimeSeriesSplit evaluation, FastAPI service, Docker workflow, JSON model bundles.  
-   - **Stack:** Python, TensorFlow/Keras, Pandas, FastAPI, Docker.  
-   - **Outcome:** Demonstrates full ML lifecycle (data sourcing, training, reporting, inference service). Educative only—no trading guarantees.  
-   - **Repo:** [`stock-prediction-py/`](../stock-prediction-py).
+## Featured Projects (Tier 1)
 
-### Tier 2 — Applied ML & Simulation Projects
-1. **Kiel Stadtbahn Simulation**  
-   - State-machine-based simulation of Kiel’s proposed Stadtbahn: trains, stations, real-time transitions.  
-   - Highlights systems thinking and JS/TS comfort.  
-   - Repo: local clone (`kiel-stadtbahn-sim`) to be published next.
+### SkillVector — Governed AI Automation Framework
+**Type:** Systems / AI governance project  
+**Status:** Active (V3)
 
-2. **Bakery Sales Forecasting (Weather → Demand)**  
-   - Correlates weather signals with bakery sales, merges multi-source data, runs regression/TS models, and surfaces explainable drivers.  
-   - Repo: local clone (`bakery-sales-forecasting`).
+SkillVector is a governance-first assistant framework designed to ensure **deterministic behavior**, **documented changes**, and **auditable workflows** across AI-driven systems.
 
-3. **Crypto Pattern Analysis**  
-   - Backtests reverse indicators, tracks volatility & overfitting risk, logs why signals fail.  
-   - Repo: local clone (`crypto-ml-project`).
+**Key aspects:**
+- Clear separation of `docs/`, `notes/`, and `projects/`
+- V1 stable pipeline, V2 governance lock, V3 disciplined roadmap
+- Explicit boundaries between implemented, planned, and exploratory work
 
-### Tier 3 — Research & GenAI Experiments
-- **Generative AI Master Projects** — Prompt-engineered image experiments, diffusion workflows, and notebook write-ups documenting prompt iterations. (`generative-ai-master-projects`)
-- **Quick Prototypes** — SMA/LSTM quick predictors, pricing APIs, and tutorial repos. Kept archived unless needed for discussion; transparently documented when signal is low.
+**Skills demonstrated:** systems thinking, documentation discipline, AI governance, Git workflows
 
-## Process & Governance
-- Every repo tracks what is **implemented**, **planned**, and **exploratory** (visible in SkillVector docs/backlog).  
-- Commits document *what changed, why, and what stayed untouched*.  
-- I log daily improvements (Mode 2) for SkillVector and stock-prediction to show sustained cadence without noise.
+---
 
-## Resume & Contact
-- **Resume:** `~/Desktop/Nicholas/Rakesh_Reddy_Kalamakuntla_Resume...pdf`  
-- **Cover Letter:** `~/Desktop/Nicholas/Rakesh_Reddy_Kalamakuntla_Cover_Letter.pdf.pdf`  
-- **Email:** rakeshreddykalamakuntla@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/rakesh-reddy-514784250/
+### Stock Market Prediction Toolkit
+**Type:** Machine Learning / Time-Series Analysis
 
-> This repo is ready to publish to GitHub. Once live, each project link above will point to the public repositories, and the README will be referenced on LinkedIn / applications as my primary portfolio.
->>>>>>> cba523e (feat: publish-ready portfolio)
+End-to-end ML pipeline exploring short-term stock price prediction using historical market data.
+
+**What I worked on:**
+- Data collection & cleaning
+- Feature engineering
+- Model training and evaluation
+- Honest documentation of limitations (volatility, overfitting, CPU-only training)
+
+**Skills demonstrated:** Python, Pandas, NumPy, ML experimentation, critical evaluation
+
+---
+
+### Kiel Train Simulation
+**Type:** Simulation / Systems Modeling
+
+A city-scale train simulation modeling state transitions and operational logic.
+
+**What I worked on:**
+- State-based simulation logic
+- Real-time behavior modeling
+- Frontend visualization experiments
+
+**Skills demonstrated:** system design, JavaScript, simulation logic, modeling complex flows
+
+---
+
+## Supporting Projects (Tier 2)
+
+### Bakery Sales Forecasting
+Forecasting bakery demand using historical sales and contextual features (e.g., weather).
+
+- Regression-based forecasting
+- Business-oriented interpretation of results
+- Focus on data quality and assumptions
+
+---
+
+### Crypto Pattern Analysis
+Exploration of crypto price patterns and indicator reliability.
+
+- Backtesting strategies
+- Evaluating noise, bias, and overfitting
+- Learning when ML *does not* help
+
+---
+
+### Generative AI Experiments
+Notebook-driven experiments with generative AI tools and prompt design.
+
+- Prompt iteration and evaluation
+- Exploring capabilities and limits of GenAI systems
+
+---
+
+## Technical Stack
+
+- **Languages:** Python, JavaScript
+- **ML / Data:** Pandas, NumPy, scikit-learn, Jupyter
+- **GenAI:** Prompt engineering, API-based experimentation
+- **Tools:** Git, Docker (basics), Linux
+- **Practices:** Documentation-first workflows, version control discipline
+
+---
+
+## How I Work
+
+I focus on:
+- Clear problem definitions
+- Explicit assumptions and limitations
+- Clean documentation
+- Incremental, reviewable changes
+
+I value **learning signals over hype** and treat projects as evolving systems, not one-off demos.
+
+---
+
+## Contact
+
+- GitHub: https://github.com/RakeshReddy26-bit
+- Email: *(add your email here)*
+- LinkedIn: *(add LinkedIn URL here)*
+
+---
+
+*This portfolio is actively maintained and reflects ongoing learning and refinement.*
