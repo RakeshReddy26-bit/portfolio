@@ -30,10 +30,11 @@ SkillVector is a governance-first assistant framework designed to ensure **deter
 
 **Key aspects:**
 - Clear separation of `docs/`, `notes/`, and `projects/`
-- V1 stable pipeline, V2 governance lock, V3 disciplined roadmap
+- V1 stable pipeline, V2 governance lock, V3 disciplined roadmap → three-version governance stack with documented change gates
 - Explicit boundaries between implemented, planned, and exploratory work
 
 **Skills demonstrated:** systems thinking, documentation discipline, AI governance, Git workflows
+**Repository:** https://github.com/RakeshReddy26-bit/skillvector
 
 ---
 
@@ -47,8 +48,10 @@ End-to-end ML pipeline exploring short-term stock price prediction using histori
 - Feature engineering
 - Model training and evaluation
 - Honest documentation of limitations (volatility, overfitting, CPU-only training)
+- Evaluated seven model archetypes (RF, LSTM, tuned LSTM, XGB, ARIMA, Transformer, ensemble) via CLI + FastAPI workflows
 
 **Skills demonstrated:** Python, Pandas, NumPy, ML experimentation, critical evaluation
+**Repository:** https://github.com/RakeshReddy26-bit/stock-prediction-py
 
 ---
 
@@ -61,8 +64,10 @@ A city-scale train simulation modeling state transitions and operational logic.
 - State-based simulation logic
 - Real-time behavior modeling
 - Frontend visualization experiments
+- Scale: Exploratory / learning-focused (no live ridership data modeled yet)
 
 **Skills demonstrated:** system design, JavaScript, simulation logic, modeling complex flows
+**Repository:** https://github.com/RakeshReddy26-bit/kiel-stadtbahn-sim
 
 ---
 
@@ -70,6 +75,7 @@ A city-scale train simulation modeling state transitions and operational logic.
 
 ### Bakery Sales Forecasting
 Forecasting bakery demand using historical sales and contextual features (e.g., weather).
+**Status:** Private repo (request access)
 
 - Regression-based forecasting
 - Business-oriented interpretation of results
@@ -79,6 +85,7 @@ Forecasting bakery demand using historical sales and contextual features (e.g., 
 
 ### Crypto Pattern Analysis
 Exploration of crypto price patterns and indicator reliability.
+**Status:** Private research notebooks (summaries available on request)
 
 - Backtesting strategies
 - Evaluating noise, bias, and overfitting
@@ -88,6 +95,7 @@ Exploration of crypto price patterns and indicator reliability.
 
 ### Generative AI Experiments
 Notebook-driven experiments with generative AI tools and prompt design.
+**Status:** Experimental notebooks (not yet public)
 
 - Prompt iteration and evaluation
 - Exploring capabilities and limits of GenAI systems
@@ -118,9 +126,9 @@ I value **learning signals over hype** and treat projects as evolving systems, n
 
 ## Contact
 
-- GitHub: https://github.com/RakeshReddy26-bit
-- Email: *(add your email here)*
-- LinkedIn: *(add LinkedIn URL here)*
+- **GitHub:** https://github.com/RakeshReddy26-bit
+- **Email:** [add email address here]
+- **LinkedIn:** [add LinkedIn URL here]
 
 ---
 
