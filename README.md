@@ -127,8 +127,8 @@ I value **learning signals over hype** and treat projects as evolving systems, n
 ## Contact
 
 - **GitHub:** https://github.com/RakeshReddy26-bit
-- **Email:** [add email address here]
-- **LinkedIn:** [add LinkedIn URL here]
+- **Email:** [rakeshreddykalamakuntla@gmail.com]
+- **LinkedIn:** [linkedin.com/in/rakesh-reddy-514784250]
 
 ---
 
